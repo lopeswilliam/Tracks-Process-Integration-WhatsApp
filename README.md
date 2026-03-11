@@ -1,12 +1,12 @@
-Solução Arquitetural de Integração com o WhatsApp Business 
+**Solução Arquitetural de Integração com o WhatsApp Business** 
 
-A proposta de solução arquitetural de integração com o WhatsApp à plataforma conversacional, conectando com o ecossistema de atendimento com a plataforma de Inteligência (IA / NLP / dados). 
+**A proposta de solução arquitetural de integração com o WhatsApp à plataforma conversacional, conectando com o ecossistema de atendimento com a plataforma de Inteligência (IA / NLP / dados).** 
 
-O objetivo é criar uma arquitetura escalável, omnichannel e orientada a eventos, capaz de suportar automação, atendimento humano e inteligência de dados. 
+**O objetivo é criar uma arquitetura escalável, omnichannel e orientada a eventos, capaz de suportar automação, atendimento humano e inteligência de dados.** 
 
-Arquitetura Conversacional 
+**Arquitetura Conversacional** 
 
-Integração WhatsApp 
+**Integração WhatsApp** 
 
 **1. Visão Arquitetural** 
 
