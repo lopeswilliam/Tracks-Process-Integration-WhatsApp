@@ -122,24 +122,24 @@ Consulta base de conhecimento do cliente.
 
 Exemplo: 
 
-Consulta saldo 
+ - Consulta saldo 
 
-Fatura 
+ - Fatura 
 
-Bloqueio de cartão 
+ - Bloqueio de cartão 
 
-Negociação 
+ - Negociação 
  
 
 # Extração de Entidades 
 
 Exemplos: 
 
-CPF 
+ - CPF 
 
-Conta 
+ - Conta 
 
-Produto 
+ - Produto 
 
 **2.5 Ecossistema de Atendimento**
 
@@ -147,23 +147,23 @@ Integração com os sistemas corporativos do cliente.
 
 Principais sistemas: 
 
-**CRM / ERP** 
+ - CRM / ERP** 
 
-**Plataforma de atendimento humano** 
+ - Plataforma de atendimento humano** 
 
-**Gestão de tickets** 
+ - Gestão de tickets** 
 
-**Core bancário**
+ - *Core bancário**
 
-**APIs de produtos** 
+ - APIs de produtos** 
 
 Funções: 
 
-Execução de operações bancárias 
+ - Execução de operações bancárias 
 
-Histórico do cliente 
+ - Histórico do cliente 
 
-Continuidade do atendimento 
+ - Continuidade do atendimento 
 
  # 3. Fluxo de Interação 
 
@@ -191,11 +191,11 @@ Continuidade do atendimento
 
 Possibilidades: 
 
-Resposta automática 
+ - Resposta automática 
 
-Consulta sistema bancário, transacionais, produtos 
+ - Consulta sistema bancário, transacionais, produtos 
 
-Transferência para humano 
+ - Transferência para humano 
 
 **7. Resposta enviada ao cliente** 
 
@@ -223,11 +223,11 @@ Agente
 
 O agente recebe: 
 
-Histórico da conversa 
+ - Histórico da conversa 
 
-Intenção identificada 
+ - Intenção identificada 
 
-Dados do cliente 
+ - Dados do cliente 
 
  
 
@@ -243,34 +243,34 @@ Deploy em múltiplas zonas com a utilização de recursos dos provedores de sua 
 
 # Observabilidade 
 
-Logs 
+ - Logs 
 
-Métricas 
+ - Métricas 
 
-Tracing 
+ - Tracing 
 
 **Segurança** 
 
-Autenticação 
+ - Autenticação 
 
-Criptografia 
+ - Criptografia 
 
-Compliance bancário 
+ - Compliance bancário 
 
 
 # 6. Benefícios da Arquitetura
 
-Experiência omnichannel 
+ - Experiência omnichannel 
 
-Escalabilidade para milhões de conversas 
+ - Escalabilidade para milhões de conversas 
 
-Automação inteligente 
+ - Automação inteligente 
 
-Redução de custo operacional 
+ - Redução de custo operacional 
 
-Melhoria da experiência do cliente 
+ - Melhoria da experiência do cliente 
 
-Integração com IA corporativa 
+ - Integração com IA corporativa 
 
 # 6.1.  Arquitetura omnichannel
 
