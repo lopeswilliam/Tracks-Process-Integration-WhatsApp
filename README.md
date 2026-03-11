@@ -129,9 +129,6 @@ Fatura
 Bloqueio de cartão 
 
 Negociação 
-
- 
-
  
 
 Extração de Entidades 
@@ -170,7 +167,7 @@ Continuidade do atendimento
 
  
 
-3. Fluxo de Interação 
+**3. Fluxo de Interação** 
 
 1. Cliente envia mensagem via WhatsApp 
 
@@ -208,7 +205,7 @@ Resposta automática dependendo do tipo de produto, validações.
 
  
 
-4. Integração com Atendimento Humano 
+**4. Integração com Atendimento Humano** 
 
 Quando necessário, o fluxo é transferido. 
 
@@ -236,7 +233,7 @@ Dados do cliente
 
  
 
-5. Requisitos Não Funcionais 
+**5. Requisitos Não Funcionais **
 
 Escalabilidade 
 
@@ -263,7 +260,7 @@ Criptografia
 Compliance bancário 
 
 
-6. Benefícios da Arquitetura 
+**6. Benefícios da Arquitetura **
 
 Experiência omnichannel 
 
@@ -287,7 +284,7 @@ O objetivo é oferecer uma jornada fluida, personalizada e contínua, colocando 
 
  
 
-7. Evolução da Arquitetura 
+**7. Evolução da Arquitetura **
 
 Possíveis evoluções: 
 
