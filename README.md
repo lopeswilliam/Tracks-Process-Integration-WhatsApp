@@ -1,4 +1,4 @@
-**Solução Arquitetural de Integração com o WhatsApp Business** 
+# **Solução Arquitetural de Integração com o WhatsApp Business** 
 
 **A proposta de solução arquitetural de integração com o WhatsApp à plataforma conversacional, conectando com o ecossistema de atendimento com a plataforma de Inteligência (IA / NLP / dados).** 
 
@@ -233,13 +233,13 @@ Dados do cliente
 
  
 
-**5. Requisitos Não Funcionais**
+#  **5. Requisitos Não Funcionais**
 
-# Escalabilidade 
+**Escalabilidade **
 
 Arquitetura baseada em eventos e microsserviços. 
 
-# Alta disponibilidade 
+**Alta disponibilidade **
 
 Deploy em múltiplas zonas com a utilização de recursos dos provedores de sua escolha. 
 
@@ -251,7 +251,7 @@ Métricas
 
 Tracing 
 
-# Segurança 
+**Segurança** 
 
 Autenticação 
 
@@ -260,7 +260,7 @@ Criptografia
 Compliance bancário 
 
 
-**6. Benefícios da Arquitetura**
+# **6. Benefícios da Arquitetura**
 
 Experiência omnichannel 
 
@@ -281,7 +281,7 @@ A experiência omnichannel no atendimento é a integração total de canais fís
 O objetivo é oferecer uma jornada fluida, personalizada e contínua, colocando o consumidor no centro.  
 
  
-**7. Evolução da Arquitetura**
+# **7. Evolução da Arquitetura**
 
 Possíveis evoluções: 
 
@@ -296,7 +296,7 @@ Assistentes financeiros personalizados.
 Automação de processos bancários, ou de qualquer segmento. 
 
 
-**8. Diagrama Arquitetural (C4 – Container)** 
+# **8. Diagrama Arquitetural (C4 – Container)** 
 
 [Cliente] 
  
@@ -329,7 +329,7 @@ Automação de processos bancários, ou de qualquer segmento.
 
 Obs.  Desenho arquitetural no formato C4-MODEL-CONTEINER, está anexado o documento. 
 
-**9. Observação** 
+# **9. Observação** 
 Foram avaliados os requisitos não funcionais e funcionais para validar a usabilidade da plataforma com seus recursos, aplicando todos os critérios de aceite-a utilização da ferramenta corporativa. 
 O desenho arquitetural, está sujeito a alterações. 
 
