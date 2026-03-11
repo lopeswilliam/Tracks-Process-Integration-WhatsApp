@@ -314,7 +314,7 @@ Automação de processos bancários, ou de qualquer segmento.
   ▼ 
 [Orquestrador de Conversas] 
  
-  ├────────► [Motor de IA] 
+  ├────────► [Motor de IA]  /
   │ 
   ├────────► [Base de Conhecimento] 
   │ 
