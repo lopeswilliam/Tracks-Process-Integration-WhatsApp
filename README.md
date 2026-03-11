@@ -8,11 +8,11 @@ Arquitetura Conversacional
 
 Integração WhatsApp 
 
-1. Visão Arquitetural 
+**1. Visão Arquitetural** 
 
 Obs.  Desenho arquitetural no formato C4-MODEL-CONTEXTO, esta anexado o documento. 
 
-2. Camadas da Arquitetura 
+**2. Camadas da Arquitetura** 
 
 2.1 Canal de Comunicação 
 
