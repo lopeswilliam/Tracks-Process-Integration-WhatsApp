@@ -106,19 +106,19 @@ Camada responsável pela inteligência da conversa, mecanismos.
 
 Componentes: 
 
-# NLP / NLU 
+**NLP / NLU** 
 
 Identificação da intenção do cliente. 
 
-# IA Generativa 
+**IA Generativa** 
 
 Geração de respostas inteligentes. 
 
-# RAG (Retrieval Augmented Generation) 
+**RAG (Retrieval Augmented Generation)** 
 
 Consulta base de conhecimento do cliente. 
 
-# Classificação de Intenção 
+**Classificação de Intenção** 
 
 Exemplo: 
 
@@ -147,15 +147,15 @@ Integração com os sistemas corporativos do cliente.
 
 Principais sistemas: 
 
-# CRM / ERP 
+**CRM / ERP** 
 
-# Plataforma de atendimento humano 
+**Plataforma de atendimento humano** 
 
-# Gestão de tickets 
+**Gestão de tickets** 
 
-# Core bancário 
+**Core bancário**
 
-# APIs de produtos 
+**APIs de produtos** 
 
 Funções: 
 
@@ -167,7 +167,7 @@ Funções:
 
  
 
-**3. Fluxo de Interação** 
+ # 3. Fluxo de Interação 
 
 **1. Cliente envia mensagem via WhatsApp** 
 
