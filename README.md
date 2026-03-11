@@ -44,7 +44,7 @@ Essa camada desacopla o WhatsApp da plataforma interna da companhia.
 
 Componentes principais: 
 
-API Gateway 
+- API Gateway 
 
 Webhook Receiver 
 
@@ -78,19 +78,19 @@ Camada responsável por gerenciar a jornada do cliente.
 
 Principais módulos: 
 
-Orquestrador de Conversas 
+# Orquestrador de Conversas 
 
 Controla o fluxo de interação. 
 
-Gestão de Contexto 
+# Gestão de Contexto 
 
 Mantém estado da conversa. 
 
-Motor de Jornada 
+# Motor de Jornada 
 
 Define fluxos de atendimento. 
 
-Roteamento Inteligente 
+# Roteamento Inteligente 
 
 Decide entre: 
 
@@ -106,19 +106,19 @@ Camada responsável pela inteligência da conversa, mecanismos.
 
 Componentes: 
 
-NLP / NLU 
+# NLP / NLU 
 
 Identificação da intenção do cliente. 
 
-IA Generativa 
+# IA Generativa 
 
 Geração de respostas inteligentes. 
 
-RAG (Retrieval Augmented Generation) 
+# RAG (Retrieval Augmented Generation) 
 
 Consulta base de conhecimento do cliente. 
 
-Classificação de Intenção 
+# Classificação de Intenção 
 
 Exemplo: 
 
@@ -131,7 +131,7 @@ Bloqueio de cartão
 Negociação 
  
 
-Extração de Entidades 
+# Extração de Entidades 
 
 Exemplos: 
 
@@ -147,23 +147,23 @@ Integração com os sistemas corporativos do cliente.
 
 Principais sistemas: 
 
-CRM / ERP 
+# CRM / ERP 
 
-Plataforma de atendimento humano 
+# Plataforma de atendimento humano 
 
-Gestão de tickets 
+# Gestão de tickets 
 
-Core bancário 
+# Core bancário 
 
-APIs de produtos 
+# APIs de produtos 
 
 Funções: 
 
-Execução de operações bancárias 
+# Execução de operações bancárias 
 
-Histórico do cliente 
+# Histórico do cliente 
 
-Continuidade do atendimento 
+# Continuidade do atendimento 
 
  
 
@@ -235,15 +235,15 @@ Dados do cliente
 
 **5. Requisitos Não Funcionais**
 
-Escalabilidade 
+# Escalabilidade 
 
 Arquitetura baseada em eventos e microsserviços. 
 
-Alta disponibilidade 
+# Alta disponibilidade 
 
 Deploy em múltiplas zonas com a utilização de recursos dos provedores de sua escolha. 
 
-Observabilidade 
+# Observabilidade 
 
 Logs 
 
@@ -251,7 +251,7 @@ Métricas
 
 Tracing 
 
-Segurança 
+# Segurança 
 
 Autenticação 
 
