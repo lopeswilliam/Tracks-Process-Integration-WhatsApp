@@ -14,7 +14,7 @@ Obs.  Desenho arquitetural no formato C4-MODEL-CONTEXTO, esta anexado o document
 
 **2. Camadas da Arquitetura** 
 
-2.1 Canal de Comunicação 
+**2.1 Canal de Comunicação** 
 
 Canal responsável pela entrada das mensagens do cliente. 
 
@@ -38,7 +38,7 @@ Controle de sessões
 
  
 
-2.2 Camada de Integração Conversacional 
+**2.2 Camada de Integração Conversacional** 
 
 Essa camada desacopla o WhatsApp da plataforma interna da companhia. 
 
@@ -72,7 +72,7 @@ Kafka / Event Streaming
 
 Middleware de integração 
 
-2.3 Plataforma Conversacional 
+**2.3 Plataforma Conversacional** 
 
 Camada responsável por gerenciar a jornada do cliente. 
 
@@ -100,7 +100,7 @@ Atendimento humano
 
 Sistemas internos 
 
-2.4 Plataforma de Inteligência  
+**2.4 Plataforma de Inteligência** 
 
 Camada responsável pela inteligência da conversa, mecanismos. 
 
@@ -141,7 +141,7 @@ Conta
 
 Produto 
 
-2.5 Ecossistema de Atendimento 
+**2.5 Ecossistema de Atendimento**
 
 Integração com os sistemas corporativos do cliente. 
 
@@ -169,27 +169,27 @@ Continuidade do atendimento
 
 **3. Fluxo de Interação** 
 
-1. Cliente envia mensagem via WhatsApp 
+**1. Cliente envia mensagem via WhatsApp** 
 
 ↓ 
 
-2. WhatsApp envia evento via webhook 
+**2. WhatsApp envia evento via webhook** 
 
 ↓ 
 
-3. Camada de Integração processa mensagem 
+**3. Camada de Integração processa mensagem** 
 
 ↓ 
 
-4. Plataforma Conversacional recebe evento 
+**4. Plataforma Conversacional recebe evento** 
 
 ↓ 
 
-5. Plataforma de Inteligência analisa intenção 
+**5. Plataforma de Inteligência analisa intenção** 
 
 ↓ 
 
-6. Orquestrador decide fluxo 
+**6. Orquestrador decide fluxo** 
 
 Possibilidades: 
 
@@ -199,7 +199,7 @@ Consulta sistema bancário, transacionais, produtos
 
 Transferência para humano 
 
-7. Resposta enviada ao cliente 
+**7. Resposta enviada ao cliente** 
 
 Resposta automática dependendo do tipo de produto, validações. 
 
@@ -233,7 +233,7 @@ Dados do cliente
 
  
 
-**5. Requisitos Não Funcionais **
+**5. Requisitos Não Funcionais**
 
 Escalabilidade 
 
@@ -260,7 +260,7 @@ Criptografia
 Compliance bancário 
 
 
-**6. Benefícios da Arquitetura **
+**6. Benefícios da Arquitetura**
 
 Experiência omnichannel 
 
@@ -274,17 +274,14 @@ Melhoria da experiência do cliente
 
 Integração com IA corporativa 
 
-6.1.  Arquitetura omnichannel 
+**6.1.  Arquitetura omnichannel** 
 
 A experiência omnichannel no atendimento é a integração total de canais físicos e digitais (telefone, redes sociais, e-commerce, loja física), permitindo que o cliente inicie uma interação em uma plataforma e a finalize em outra sem precisar repetir informações.  
 
 O objetivo é oferecer uma jornada fluida, personalizada e contínua, colocando o consumidor no centro.  
 
  
-
- 
-
-**7. Evolução da Arquitetura **
+**7. Evolução da Arquitetura**
 
 Possíveis evoluções: 
 
@@ -298,9 +295,8 @@ Assistentes financeiros personalizados.
 
 Automação de processos bancários, ou de qualquer segmento. 
 
- 
 
-8. Diagrama Arquitetural (C4 – Container) 
+**8. Diagrama Arquitetural (C4 – Container)** 
 
 [Cliente] 
  
@@ -330,28 +326,11 @@ Automação de processos bancários, ou de qualquer segmento.
   │ 
   └────────► [Plataforma de Atendimento] 
 
- 
-
- 
 
 Obs.  Desenho arquitetural no formato C4-MODEL-CONTEINER, está anexado o documento. 
 
- 
-
-9. Observação 
-
- 
-
+**9. Observação** 
 Foram avaliados os requisitos não funcionais e funcionais para validar a usabilidade da plataforma com seus recursos, aplicando todos os critérios de aceite-a utilização da ferramenta corporativa. 
-
- 
-
 O desenho arquitetural, está sujeito a alterações. 
 
-Tracks I.A. INNOVATION BY WILLIAM LOPES 
-
- 
-
- 
-
- 
+Tracks I.A. INNOVATION BY WILLIAM LOPES
