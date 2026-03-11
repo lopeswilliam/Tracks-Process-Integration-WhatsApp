@@ -205,7 +205,7 @@ Resposta automática dependendo do tipo de produto, validações.
 
  
 
-**4. Integração com Atendimento Humano** 
+ # 4. Integração com Atendimento Humano
 
 Quando necessário, o fluxo é transferido. 
 
@@ -233,7 +233,7 @@ Dados do cliente
 
  
 
-#  **5. Requisitos Não Funcionais**
+# 5. Requisitos Não Funcionais
 
 **Escalabilidade **
 
@@ -260,7 +260,7 @@ Criptografia
 Compliance bancário 
 
 
-# **6. Benefícios da Arquitetura**
+# 6. Benefícios da Arquitetura
 
 Experiência omnichannel 
 
@@ -274,14 +274,14 @@ Melhoria da experiência do cliente
 
 Integração com IA corporativa 
 
-**6.1.  Arquitetura omnichannel** 
+# 6.1.  Arquitetura omnichannel
 
 A experiência omnichannel no atendimento é a integração total de canais físicos e digitais (telefone, redes sociais, e-commerce, loja física), permitindo que o cliente inicie uma interação em uma plataforma e a finalize em outra sem precisar repetir informações.  
 
 O objetivo é oferecer uma jornada fluida, personalizada e contínua, colocando o consumidor no centro.  
 
  
-# **7. Evolução da Arquitetura**
+# 7. Evolução da Arquitetura
 
 Possíveis evoluções: 
 
