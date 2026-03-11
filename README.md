@@ -20,21 +20,21 @@ Canal responsável pela entrada das mensagens do cliente.
 
 Componentes: 
 
-WhatsApp Business API 
+ - WhatsApp Business API 
 
-Provedor BSP (Business Solution Provider) 
+ - Provedor BSP (Business Solution Provider) 
 
-Gestão de Webhooks 
+ - Gestão de Webhooks 
 
 Responsabilidades: 
 
-Recebimento de mensagens 
+ - Recebimento de mensagens 
 
-Envio de respostas 
+ - Envio de respostas 
 
-Gestão de templates 
+ - Gestão de templates 
 
-Controle de sessões 
+ - Controle de sessões 
 
  
 
@@ -46,31 +46,31 @@ Componentes principais:
 
 - API Gateway 
 
-Webhook Receiver 
+ - Webhook Receiver 
 
-Middleware de Mensageria 
+ - Middleware de Mensageria 
 
-Orquestrador de eventos 
+ - Orquestrador de eventos 
 
 Funções: 
 
-Normalização das mensagens 
+ - Normalização das mensagens 
 
-Segurança 
+ - Segurança 
 
-Rate limiting 
+ - Rate limiting 
 
 Observabilidade 
 
-Distribuição de eventos 
+ - Distribuição de eventos 
 
 Tecnologias possíveis: 
 
-API Gateway corporativo 
+ - API Gateway corporativo 
 
-Kafka / Event Streaming 
+ - Kafka / Event Streaming 
 
-Middleware de integração 
+ - Middleware de integração 
 
 **2.3 Plataforma Conversacional** 
 
@@ -94,11 +94,11 @@ Define fluxos de atendimento.
 
 Decide entre: 
 
-Automação 
+ - Automação 
 
-Atendimento humano 
+ - Atendimento humano 
 
-Sistemas internos 
+ - Sistemas internos 
 
 **2.4 Plataforma de Inteligência** 
 
