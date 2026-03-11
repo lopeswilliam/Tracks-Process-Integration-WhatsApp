@@ -159,13 +159,11 @@ Principais sistemas:
 
 Funções: 
 
-# Execução de operações bancárias 
+Execução de operações bancárias 
 
-# Histórico do cliente 
+Histórico do cliente 
 
-# Continuidade do atendimento 
-
- 
+Continuidade do atendimento 
 
  # 3. Fluxo de Interação 
 
