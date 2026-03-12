@@ -327,8 +327,11 @@ Automação de processos bancários, ou de qualquer segmento.
 
 Obs.  Desenho arquitetural no formato C4-MODEL-CONTEINER, está anexado o documento. 
 
-# **9. Observação** 
+# 9. Observação
+
 Foram avaliados os requisitos não funcionais e funcionais para validar a usabilidade da plataforma com seus recursos, aplicando todos os critérios de aceite-a utilização da ferramenta corporativa. 
+
 O desenho arquitetural, está sujeito a alterações. 
+
 
 Tracks I.A. INNOVATION BY WILLIAM LOPES
