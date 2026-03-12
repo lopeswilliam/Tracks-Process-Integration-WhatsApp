@@ -233,11 +233,11 @@ O agente recebe:
 
 # 5. Requisitos Não Funcionais
 
-**Escalabilidade **
+**Escalabilidade**
 
 Arquitetura baseada em eventos e microsserviços. 
 
-**Alta disponibilidade **
+**Alta disponibilidade**
 
 Deploy em múltiplas zonas com a utilização de recursos dos provedores de sua escolha. 
 
